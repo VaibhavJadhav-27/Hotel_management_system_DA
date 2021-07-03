@@ -1,0 +1,33 @@
+D:\Projects\Hotel management System\Hotel Management Software\bin\Debug\Database1.mdf
+D:\Projects\Hotel management System\Hotel Management Software\bin\Debug\Database1_log.ldf
+D:\Projects\Hotel management System\Hotel Management Software\bin\Debug\Hotel Management Software.exe.config
+D:\Projects\Hotel management System\Hotel Management Software\bin\Debug\Hotel Management Software.exe
+D:\Projects\Hotel management System\Hotel Management Software\bin\Debug\Hotel Management Software.pdb
+D:\Projects\Hotel management System\Hotel Management Software\bin\Debug\FirstFloor.ModernUI.dll
+D:\Projects\Hotel management System\Hotel Management Software\bin\Debug\FirstFloor.ModernUI.xml
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.Form1.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.Properties.Resources.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.Timekeeper_login.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel Management Software.csproj.GenerateResource.cache
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel Management Software.csproj.CoreCompileInputs.cache
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel Management Software.csproj.CopyComplete
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel Management Software.exe
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel Management Software.pdb
+D:\Projects\Hotel management System\Hotel Management Software\bin\Debug\MetroFramework.dll
+D:\Projects\Hotel management System\Hotel Management Software\bin\Debug\MetroSet UI.dll
+D:\Projects\Hotel management System\Hotel Management Software\bin\Debug\XanderUI.dll
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.RecoveryForm.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.Receptionist_login.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.Amin_login.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.admin_dashbard.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.ad_employee.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.ad_room.resources
+D:\Projects\Hotel management System\Hotel Management Software\bin\Debug\MetroFramework.Design.dll
+D:\Projects\Hotel management System\Hotel Management Software\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.adrp_Records.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.rp_addguest.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.rp_checkout.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.rp_laundry.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.rp_package.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel_Management_Software.ad_attendance.resources
+D:\Projects\Hotel management System\Hotel Management Software\obj\Debug\Hotel Management Software.csprojAssemblyReference.cache
